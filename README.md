@@ -9,4 +9,4 @@ Modification made by Emily Bache. The problem that this code is designed to solv
 
 This Refactoring Kata was designed by Jon Jagger and is available in his Cyber-Dojo. See [his blog post](http://jonjagger.blogspot.com/2012/05/yahtzee-cyber-dojo-refactoring-in-java.html)
 
-All credit to [Emily Bache](https://github.com/emilybache) and [Jon Jagger](https://github.com/JonJagger). Also to my instructor [David Gelpi](https://github.com/dfleta) for mentoring.
+All credit to [Emily Bache](https://github.com/emilybache) and [Jon Jagger](https://github.com/JonJagger). 
